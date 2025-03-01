@@ -1,0 +1,156 @@
+{
+  "flights": [
+    {
+      "id": 1,
+      "from": "New York",
+      "to": "Los Angeles",
+      "date": "2025-03-01",
+      "time": "10:00 AM",
+      "status": "open"
+    },
+    {
+      "id": 2,
+      "from": "Chicago",
+      "to": "San Francisco",
+      "date": "2025-03-05",
+      "time": "12:30 PM",
+      "status": "close"
+    },
+    {
+      "id": 3,
+      "from": "Dallas",
+      "to": "Miami",
+      "date": "2025-03-10",
+      "time": "03:00 PM",
+      "status": "open"
+    },
+    {
+      "id": 5,
+      "from": "Houston",
+      "to": "Denver",
+      "date": "2025-03-15",
+      "time": "05:30 PM",
+      "status": "open"
+    },
+    {
+      "id": 6,
+      "from": "Las Vegas",
+      "to": "Orlando",
+      "date": "2025-03-18",
+      "time": "11:45 AM",
+      "status": "close"
+    },
+    {
+      "id": 7,
+      "from": "San Diego",
+      "to": "Phoenix",
+      "date": "2025-03-20",
+      "time": "07:00 PM",
+      "status": "open"
+    },
+    {
+      "id": 8,
+      "from": "Portland",
+      "to": "Chicago",
+      "date": "2025-03-22",
+      "time": "08:30 AM",
+      "status": "close"
+    },
+    {
+      "id": 9,
+      "from": "Philadelphia",
+      "to": "Atlanta",
+      "date": "2025-03-25",
+      "time": "06:00 PM",
+      "status": "open"
+    },
+    {
+      "id": 10,
+      "from": "San Jose",
+      "to": "Austin",
+      "date": "2025-03-28",
+      "time": "02:00 PM",
+      "status": "close"
+    },
+    {
+      "id": 11,
+      "from": "Seattle",
+      "to": "Boston",
+      "date": "2025-03-30",
+      "time": "01:00 PM",
+      "status": "open"
+    },
+    {
+      "id": 12,
+      "from": "Miami",
+      "to": "Dallas",
+      "date": "2025-04-01",
+      "time": "04:30 PM",
+      "status": "close"
+    },
+    {
+      "id": 13,
+      "from": "Los Angeles",
+      "to": "New York",
+      "date": "2025-04-03",
+      "time": "08:00 AM",
+      "status": "open"
+    },
+    {
+      "id": 14,
+      "from": "Denver",
+      "to": "Houston",
+      "date": "2025-04-05",
+      "time": "10:45 AM",
+      "status": "close"
+    },
+    {
+      "id": 15,
+      "from": "Orlando",
+      "to": "Las Vegas",
+      "date": "2025-04-07",
+      "time": "09:15 AM",
+      "status": "open"
+    },
+    {
+      "id": 16,
+      "from": "Phoenix",
+      "to": "San Diego",
+      "date": "2025-04-10",
+      "time": "07:45 PM",
+      "status": "close"
+    },
+    {
+      "id": 17,
+      "from": "Chicago",
+      "to": "Portland",
+      "date": "2025-04-12",
+      "time": "03:15 PM",
+      "status": "open"
+    },
+    {
+      "id": 18,
+      "from": "Atlanta",
+      "to": "Philadelphia",
+      "date": "2025-04-15",
+      "time": "05:00 PM",
+      "status": "close"
+    },
+    {
+      "id": 19,
+      "from": "Austin",
+      "to": "San Jose",
+      "date": "2025-04-18",
+      "time": "12:00 PM",
+      "status": "open"
+    },
+    {
+      "id": 20,
+      "from": "Boston",
+      "to": "Seattle",
+      "date": "2025-04-20",
+      "time": "10:00 AM",
+      "status": "close"
+    }
+  ]
+}
